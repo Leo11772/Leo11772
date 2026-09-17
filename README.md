@@ -1,37 +1,75 @@
-<h1 align="center">Guilherme Canella</h1>
+<h1 align="center">Leonardo Galves</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20Júnior-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20|%20Python%20|%20Power%20BI-333333?style=for-the-badge" />
+  <strong>TI • Marketing • Comunicação</strong>
 </p>
-Sou Guilherme Canella, formado em Data Science pela FIAP. Atuo hoje na área comercial, onde trabalho todos os dias com CRM (HubSpot/Movida), dashboards de KPIs, funil de conversão e análise de dados de negócio — e uso essa vivência para construir projetos de portfólio em SQL, Python e Power BI.
-Estou em busca da minha primeira oportunidade como Analista de Dados, com foco em transformar dados brutos em decisões de negócio.
-📫 Contato
-<p align="left">
-  <a href="mailto:guilhermecanella78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-canella-44171530b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/CRM-4A90E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Funis%20de%20Vendas-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CRO-7B61FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-🛠️ Habilidades
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-🚀 Projeto em destaque
-Análise de E-commerce | Olist — SQL + Power BI
-Projeto ponta a ponta com o dataset público da Olist (+90 mil pedidos): modelagem de banco relacional no PostgreSQL, 10 consultas SQL respondendo perguntas reais de negócio (ticket médio, forma de pagamento, receita por região/categoria, prazo de entrega, top clientes) e um dashboard interativo em Power BI conectado direto ao banco.
-Principais insights:
-Tempo de entrega impacta diretamente a satisfação: pedidos com nota 1 levam quase o dobro do tempo dos pedidos com nota 5.
-Volume de vendas ≠ receita: a categoria líder em quantidade não é a que mais fatura.
-Estados menores têm ticket médio mais alto que os grandes centros como SP.
+
+
+## Sobre mim
+
+Atuo na interseção entre **tecnologia, marketing e comportamento humano**.
+
+Desenvolvo aplicações, sites e sistemas, gerencio servidores e infraestrutura e trabalho com dados, automação, tráfego pago, KPIs, comunicação, persuasão e neuromarketing.
+
+Meu foco é transformar **tecnologia + dados + estratégia** em soluções que geram resultado.
+
+## Projetos
+
+Aqui você encontrará projetos envolvendo **software, infraestrutura, dados, automação, marketing e experimentos de negócio**.
+
 ---
-<p align="center"><i>Aberto a oportunidades como Analista de Dados Júnior — vamos conversar!</i></p>
+
+<p align="center">
+  <i>Construindo, testando e transformando ideias em projetos reais.</i>
+</p>
